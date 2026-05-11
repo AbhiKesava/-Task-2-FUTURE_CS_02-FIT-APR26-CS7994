@@ -1,0 +1,6 @@
+Email Subject,Indicators Found,Classification,Risk Level
+URGENT Verify Your Account,Fake domain;Urgency;Suspicious URL,Phishing,High
+Invoice Attached,Unknown attachment;No signature,Suspicious,Medium
+Monthly Newsletter,Trusted sender;Valid links,Safe,Low
+Password Reset Request,Spoofed sender;Credential request,Phishing,Critical
+Bank Verification Alert,Fake banking URL;Fear tactics,Phishing,High
